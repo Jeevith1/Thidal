@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thidal", "Thidal\Thidal.csproj", "{F77E4588-0320-47C5-8372-850C95606473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{AC55B677-5D16-4618-95DC-EA3674373AD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelsNew", "ViewModelsNew\ViewModelsNew.csproj", "{8B913C6B-7FC4-4C81-9EAC-BF5DBCEB2F63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F77E4588-0320-47C5-8372-850C95606473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F77E4588-0320-47C5-8372-850C95606473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F77E4588-0320-47C5-8372-850C95606473}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC55B677-5D16-4618-95DC-EA3674373AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC55B677-5D16-4618-95DC-EA3674373AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC55B677-5D16-4618-95DC-EA3674373AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC55B677-5D16-4618-95DC-EA3674373AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B913C6B-7FC4-4C81-9EAC-BF5DBCEB2F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B913C6B-7FC4-4C81-9EAC-BF5DBCEB2F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B913C6B-7FC4-4C81-9EAC-BF5DBCEB2F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B913C6B-7FC4-4C81-9EAC-BF5DBCEB2F63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
