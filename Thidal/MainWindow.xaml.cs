@@ -23,7 +23,7 @@ namespace Thidal
         public MainWindow()
         {
             InitializeComponent();
-            int a = 4;
+            int a = 56;
             PassString( a);
             MessageBox.Show(a.ToString());
         }
